@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @Medsaad
-- 👀 I’m a Software Engineer | DevOps & Cloud Engineer: Nodejs | React | aws | docker | k8s | Python
+- 👀 I’m a Software Engineer: Nodejs | React | aws | docker | k8s | Python | LangChain | LangGraph
